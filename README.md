@@ -28,7 +28,7 @@ Activate virtual environment using python3.8
 Install  all dependancies that will make the app run/function
 * pip install -r requirements.txt
 
-### Create the Database
+### Create the Database  
 * psql
 * create database awards;
 
