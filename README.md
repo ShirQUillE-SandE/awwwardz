@@ -49,9 +49,6 @@ Install  all dependancies that will make the app run/function
 `Username: Admin`
 `Password: Access254`
 
- ### API Endpoints
-  - ***[Profiles Endpoint](https://starawwards.herokuapp.com/api/profileb)***
-
 ### Technologies used
     - Python 3.8.10
     - HTML5
