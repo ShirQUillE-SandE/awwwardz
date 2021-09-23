@@ -10,7 +10,7 @@ AwwwardZ is a Python-Django web application where registered users can post proj
 
 ## Set Up and Installations
 
-### Prerequisites
+### Prerequisites 
     - Ubuntu Software
     - Python3.8.10
     - Postgres
