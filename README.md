@@ -51,7 +51,6 @@ Install  all dependancies that will make the app run/function
 
  ### API Endpoints
   - ***[Profiles Endpoint](https://starawwards.herokuapp.com/api/profileb)***
-  - ***[Projects Endpoint](https://starawwards.herokuapp.com/api/projectsb)***
 
 ### Technologies used
     - Python 3.8.10
