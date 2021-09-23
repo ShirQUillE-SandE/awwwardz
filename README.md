@@ -58,10 +58,6 @@ Install  all dependancies that will make the app run/function
     - Postgresql
     - GIT
 
-### Enjoy :)
-
-
-
 ### License
 
 Awwwardz is under the ***[MIT](LICENSE)*** license.
