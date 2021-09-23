@@ -49,7 +49,7 @@ Install  all dependancies that will make the app run/function
 `Username: Admin`
 `Password: Access254`
 
-### Technologies used
+### Technologies used  
     - Python 3.8.10 
     - HTML5
     - Django 3.2.5
