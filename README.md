@@ -62,4 +62,4 @@ Install  all dependancies that will make the app run/function
 
 Awwwardz is under the ***[MIT](LICENSE)*** license.
           
-@2021.                        
+@2021.                            
